@@ -1,10 +1,10 @@
 import './App.css';
-import Clik from './components/clik';
+import Button from './components/button';
 
 function App() {
   return (
     <div className="App">
-      <Clik/>
+     <Button/>
     </div>
   );
 }
